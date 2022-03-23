@@ -1,3 +1,5 @@
+/* global axios */
+
 // TODO: 修正 ESLint 錯誤、補上分號、前輩說要改單引號 QQ
 const url = 'https://hexschool.github.io/js-filter-data/data.json';
 let data = '';
